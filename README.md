@@ -1,6 +1,6 @@
 Oply
 ---------------------
-Tiny object-oriented programming language implemented using [PLY](http://www.dabeaz.com/ply/index.html)
+Tiny object-oriented programming language
 
     obj time = new {
         int seconds = 0;
@@ -38,4 +38,5 @@ Tiny object-oriented programming language implemented using [PLY](http://www.dab
 
 Learn More
 ----------
+[PLY (Python Lex-Yacc)](http://www.dabeaz.com/ply/index.html)
 [Prototyping Interpreters using Python Lex-Yacc](http://www.drdobbs.com/web-development/prototyping-interpreters-using-python-le/184405580)
